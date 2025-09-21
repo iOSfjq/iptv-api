@@ -1,32 +1,42 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iOSfjq/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-19 18:41:49
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-21 18:37:32
 https://mgtv.ottiptv.cc/mg/608807420.m3u8?token=f85336aae348beccadf1d903eb5ea96e2e5eb841cc7cfbc1090d77e1bbbc73f31f2d33772bc4b81ff0d592adf1a8a69d34891ebb64c681c83a546be2bf44f29c30f66bcd4225426e6e9ab38bf6&tm=1757585563&sign=14697c625e5d6e574b3e83f84a00cbaa$订阅源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://mgtv.ottiptv.cc/mg/608807420.m3u8?token=f85336aae348beccadf1d903eb5ea96e2e5eb841cc7cfbc1090d77e1bbbc73f31f2d33772bc4b81ff0d592adf1a8a69d34891ebb64c681c83a546be2bf44f29c30f66bcd4225426e6e9ab38bf6&tm=1757585563&sign=14697c625e5d6e574b3e83f84a00cbaa$订阅源
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+https://cc06.tv12.xyz/1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 https://mgtv.ottiptv.cc/migu/631780532.m3u8?migutoken=2cc16edb8b72b985447e163fc9d5ba7b11b3deb09dec87d5e3e9d3e931f0e758e9185208ae4bcd86b217d36340ac07d36b1e41fc248c25bca78ee9239f6d7ab77107b2c83c394f17bfe6cd6760$订阅源
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 https://mgtv.ottiptv.cc/mg/631780532.m3u8?token=782622488420d058e771dc9f9ff4c4232e75b0b7506f4526e81bffd4e242d4735e7583d4af19a9140511ac6dffe9cfda872429af3c53636f3a4d5c80f0750b7c95b974a8c0632ff6e4d6473636&tm=1757387428&sign=98b036e589ba5e0908dedb8e40356e76$订阅源
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 https://mgtv.ottiptv.cc/mg/631780532.m3u8?token=08b393ab188134ca1ce7a7b51b0bdebaac120e479f6042169c3e4e3d7746d14008a280eddd4b54b009468ce4743a172dc54e1241be08d6e4e61a4994dec9bdf040f2c5312510f902aa8bfbd6e2&tm=1757585563&sign=ddce07eeb37857ae01b1e83831e30634$订阅源
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
+https://cc06.tv12.xyz/2.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
 https://mgtv.ottiptv.cc/migu/624878271.m3u8?migutoken=083279abb7b4544938a19a36704058b18691b6ed848693ad839df34327b0766a2dd705209ff61443de894aecc66851cf0fd9ce567170151ea9facb75afbb7b75add685cc74971762d1cfc98abb$订阅源
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
 https://mgtv.ottiptv.cc/mg/624878271.m3u8?token=c2f4e3b7fd41cbc7ca351daab9483f744dae90899de5c04536d8ee1859655cda7cf0727b8417eb1597a2a9bb4b89256e5146219aae0154b13a92aa7db76cd9cf8fdea25875a9d83bd45cb6d07f&tm=1757387428&sign=1ad60accd460f7db1b067d1c1e6f6d8e$订阅源
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
 https://mgtv.ottiptv.cc/mg/624878271.m3u8?token=c0fe742d36fdb28f980519218cc888e3aadbc4e4c1ac0fe94aab8ba0f9dca35818bde68cd9caa8a422cf4d30bc3f776e7aec506ab2af1cffcf36d33b29c2587371d6e935f246d7f789c9ac9385&tm=1757585563&sign=da85a946186bdcabda2c74531ad60abb$订阅源
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
+https://cc06.tv12.xyz/3.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://mgtv.ottiptv.cc/migu/631780421.m3u8?migutoken=efbfeba358cdc62147983f23f7d8b32e00c8c065390d8311181a7f77e958b716e07fc64d85ebe0fcaadd44898d17ba4690cc11e3c0ce6fea4ef4261c897bd3cd601edfbee436a003ea29fa2dc5$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://mgtv.ottiptv.cc/mg/631780421.m3u8?token=f1eb6fd00c24898b309e9a0edf4a3ea0f3eb2352ecb88740df440cd3ac9202c58a59bfe33e827cf048977397c053b330f7e2c705c1e530156f4cc8349e1526e7c39c0b3eca1f2dcd0ef2f4c799&tm=1757387428&sign=842ea63e29c6f44221b44812afe594f3$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://mgtv.ottiptv.cc/mg/631780421.m3u8?token=7e7f5acfb8170d72b306944f15c2a8ab1b505d3b1217934441b839c834b96d436dd161b36c9b83e36c9fdd8a23965647e39402316c06132bdb41774811c3e5b738983e203db493cffa14d0199c&tm=1757585563&sign=a675f65668a8db667630d55538e2d13c$订阅源
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
+https://cc06.tv12.xyz/4.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://mgtv.ottiptv.cc/migu/641886683.m3u8?migutoken=105533d9e150febd9afc8a38ff5ff74681604e105790d2f63a1b602fdcad270a56185c8023e22cd81c2dc4c1608e70f80e776552cfe7de78ba9631124adf6394a2084634a354fae51c75e880a8$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://mgtv.ottiptv.cc/mg/641886683.m3u8?token=6c49c50cdf8aa0eda0a00c38f95517f40d327f07d308d09aa820421c26b14024bae965495fdb9762668b4e8cc42f1809466015650dfe7d50bc0de4db09d8c3f952f68584699eef30b9f01bf17c&tm=1757387428&sign=4075eef6b0c4cfa748df7ba38739ade7$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://mgtv.ottiptv.cc/mg/641886683.m3u8?token=f63bcfbc80d92753748871d53f5a1a858c9c9632c5db7e62bfe08d3996ffa6cd5a085d4038b51e204b6b46768c9548b185543e7ee7c5040d04d6494037acedc2765529407eeca8c087079811f1&tm=1757585563&sign=3e3b74cc397ff294019b8fe2ff64100e$订阅源
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
+https://cc06.tv12.xyz/5.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
@@ -37,48 +47,66 @@ https://mgtv.ottiptv.cc/migu/641886773.m3u8?migutoken=cecf37e161b1ec65e2cc6c5725
 https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=0e47a58aee0c766cee42433ccc0df0f9dbaeb31233f0916a27c52231a008789243906c494256b43df6a92b0c6c47ec4b82b6d5800dad591ff808b64c6561983b4011b4a2d7f6d4b9bb499e989b&tm=1757387428&sign=909a01f044c6d44bc8e7dd339fa47d49$订阅源
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=de431ecd50ecd181ad43b652275ce234a93e3be6723f1f1b5a1a9cd0c5ec7e287a99d73df089162eded55501c285c8fb0b4ceafca711de5811a8018d5c29cbc899b8c2d67a6cbf9a46f5538f45&tm=1757585563&sign=374d178c185ff10d6a07c37a8c9d50f8$订阅源
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
+https://cc06.tv12.xyz/6.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 https://mgtv.ottiptv.cc/migu/624878396.m3u8?migutoken=df17a5d8ca39dc2813fcb4479b18a3b243beafefadcb7a8e49f7680851d9e9ad4a35079812fb80fb7df2ff4e169dff20c80e1ea6b4d15385ccb75c7f02729612b7c7e258bc15842862f2f6c649$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 https://mgtv.ottiptv.cc/mg/624878396.m3u8?token=8f5994def3d9d3d1e42bf78bc636109851d74e4e86ad4dd7f30d3ff7b89e51ecc777ffcd40f1cebd9ae4f61469dc41b2b9b896de6d402ac81a18eb8a2c4f3b761eae1eb6a6625c7fd770d59235&tm=1757387428&sign=05d4c798efcd2288232b7c374480e071$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 https://mgtv.ottiptv.cc/mg/624878396.m3u8?token=02c353ea2678b4a85f4767da9388b12e32e44ea0de779386d6db6856ad44457cf949636ba6c7d32f09f26b06a035c6d5120dff034627dff1b2c81867568eeed788789f12c368541c93ed1daa4e&tm=1757585563&sign=3988c79c004a219f004229787b830007$订阅源
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
+https://cc06.tv12.xyz/7.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
+https://cc06.tv12.xyz/8.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
 https://mgtv.ottiptv.cc/migu/624878356.m3u8?migutoken=deba2539ea28709cc867d1d661b811296e524129bbd5e5d8101c86e03c3f1744dc4fcb431a5d0a81f9f1b882f52207a686bab7e44c43cc25315e96192527c318920e126abba7f8a8e0ada57369$订阅源
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
 https://mgtv.ottiptv.cc/mg/624878356.m3u8?token=afe48916b07b879975b99aef80c447d0b867e9e720473054b3c13ababa253922c099a02c093e76e2f86d838fc89789b259edbaa2df42da6e23ed1b7e7b65267f2ebd02b3d7465a7f18af5925c9&tm=1757387428&sign=24939c774ad7694e7fbf24e9ae47f642$订阅源
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
 https://mgtv.ottiptv.cc/mg/624878356.m3u8?token=d4477bd72d25cb82c0478ccbad309e25e7e60c4710b7eefcce0585f9b20fd8322f32e21cdceda5559b53090c5a9bea640878ff2c0a43d913916971c2bf7497e96754cde4722d416b3ecb6ea9a1&tm=1757585563&sign=2e683f14246e8f6317d67d012b7593fc$订阅源
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
+https://cc06.tv12.xyz/9.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 https://mgtv.ottiptv.cc/migu/673168140.m3u8?migutoken=e6416f5c2b21960f15093a894515779fc686808248662b3e39b3064d3feab3681c25602455ab90642d724401b84fd1c918eb662f80b7c4d243071b9caa580187199aae1568b9190f4e3977e837$订阅源
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 https://mgtv.ottiptv.cc/mg/673168140.m3u8?token=60e8ab435821bdfe6b921cf2eb6d9ff66b3c26f1588eb85aa005422e783722555f9e86e4662579a1ad132733c06fcc0322435b6748325ae6bc100a53f2e00d4a9091c6ff43762b4a669bc27417&tm=1757387428&sign=b9489a92706faead9cfd1be36f43a701$订阅源
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 https://mgtv.ottiptv.cc/mg/673168140.m3u8?token=61998afa5b98dfca3aa15abc0d3741e0d8f54958e7efedcb02aa6f499bcd74f91d21085ecee1e6c36f348a66f3437d0fb293a4ebd3fa74a031927357115378d5d1144965c4b9ca4576b05b3a1a&tm=1757585563&sign=486d10e2038bea77631dcfe8b9642fd3$订阅源
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
+https://cc06.tv12.xyz/10.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
 https://mgtv.ottiptv.cc/migu/624878405.m3u8?migutoken=53424e1e636ffd0ccaf1445b55fd4a730505b5773658f77b584ef1a52771f7bd6ec9de0bf9076b50fc76a446d6d5655eec2edb74888d2d8b58edd05c8848ed1e37030196efcb435728c2be55fb$订阅源
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
 https://mgtv.ottiptv.cc/mg/624878405.m3u8?token=caa170b7cab721ce49bc50b69eaaf8cacf19071d92f8f4e6e93fa12c53a549c9c9067a5d501cf41811a575dad3cab6117bb732ac303198449d059d6c22da3a4631d2ede535c75ffe0522082268&tm=1757387428&sign=724c99ea6d84a5be2b0a5adf3b20467c$订阅源
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
 https://mgtv.ottiptv.cc/mg/624878405.m3u8?token=141ae2ba1047cd6cec626213d494f5d7662ceb0de626c8a10cc10ff3e1bce28fa4daaa5e8403c475dcc2c0462dac381c43ad4e685d452fcbe8a38ebbe19bdffb284f82e12bcf26b97ff719dabc&tm=1757585563&sign=884759d83e64f4e3103b92646d473580$订阅源
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
+https://cc06.tv12.xyz/11.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
 https://mgtv.ottiptv.cc/migu/667987558.m3u8?migutoken=6d10ced8ca3a9bf707574ccb3d95e660b676815ff06a89b4ab050bb662cb88a95bb6906e57e9559cf7d72afb8c3d85522eb5ddc6ae42497493ddb5fd39f3c251c38469442c5d0a228876adac79$订阅源
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
 https://mgtv.ottiptv.cc/mg/667987558.m3u8?token=7a1da4e323a4ed0a026645a00d5e8f2a08a83735a49b876da9e94ebd63d47d9104ed9858aa9e1b2f081ed8682f7219414fff9cbe49b10583d7fa588b0ca41d0c2f03d66d60d44427abea7affa6&tm=1757387428&sign=34ac256c99465c90cf5590c6e22ec2e1$订阅源
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
 https://mgtv.ottiptv.cc/mg/667987558.m3u8?token=215ba7a7667160911721b17f290206ffe0756b2dee9716af5f3ad171748ac3e3788ed6be8faa3fe338797b9a0322963ee52008f1c5a524078a3be492b07dc890037116464128c3dcaf6e92d5da&tm=1757585563&sign=3807647d8ed1c07a6165f7b8107b986a$订阅源
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
+https://cc06.tv12.xyz/12.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 https://mgtv.ottiptv.cc/migu/673168185.m3u8?migutoken=fc7337f383350fbb1ad2e26060782fb1429267aa9085aba00b3212b25d33265b7a00a505a972cd564f5c810010f3d1984c96dcfde712a2171468fb650e80e2d47ade21b53872a5c4cf89ab15a5$订阅源
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 https://mgtv.ottiptv.cc/mg/673168185.m3u8?token=09e9387e7585c6c9a2f3b5820f1e5ddc581a34b5f44b397bf39663aaa3b00f37a76c0b9b6073c600e1ff62661257b84df45188bb929555b34ecfae800261beb9bf56c74a88453a51e323e16ba5&tm=1757387428&sign=855951a793508743a7bb50e47a8595a6$订阅源
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 https://mgtv.ottiptv.cc/mg/673168185.m3u8?token=55cffc07f834ef2cb08afed3ce58cc42b1ff1a6772bd9a3aa6e6f8513a34ffcdc416c40dff78e77ad96ab837a6ce0ad55c77fa9a095eba27d53fdfe80cea44dee715be046c6d5faf120cbd7ce6&tm=1757585563&sign=3420b5d6d0d094678a675e5cf7fafa7b$订阅源
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
+https://cc06.tv12.xyz/13.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://mgtv.ottiptv.cc/migu/608807423.m3u8?migutoken=fad7fa9fca1846294a7961085a5fbd9e677ea714e81cc36cca6add603513aed12c759c32a01953e2b7b19823e1feb7e8865cafc76efad15cc1d345f469f9790854422170b0e2ff08c498fcce61$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://mgtv.ottiptv.cc/mg/608807423.m3u8?token=b7b7a1eee882f2820196334a329c3e21a6a1d368f92f0ec29a2a0ae14bdc52e9833a705e6cd1c392ebe554f7fb42d9b76be0999e7643920eeb703309ee58f6715ef2ea5bf34d98b300a1604f54&tm=1757387428&sign=f43935283ccf3bb2471780af9fec937f$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://mgtv.ottiptv.cc/mg/608807423.m3u8?token=08859da6d66a33d1269092c01b71e309556f7548ba4cff86fd8edcc3ded87466ce9846f7700cc00f7472b7e4e9277088bbd9f1a5ce4374f7755fc233a5594234851edec980efb4652cc1cb5ece&tm=1757585563&sign=ca093b57368004e7978c429b6aaa0fad$订阅源
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+https://cc06.tv12.xyz/14.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
@@ -94,6 +122,8 @@ https://mgtv.ottiptv.cc/mg/624878440.m3u8?token=953330a5dc7cea7b8658e35233c25199
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://mgtv.ottiptv.cc/mg/624878440.m3u8?token=95014e04f1030df88590d5c4b34fd00aa3f1acbf341dcac350a6114d1d6609ecf197ae30d9d65b1ed85b0028494a8d83365ed666d1946942c3e903e20f6dd723237bf617a82333861167cc6f30&tm=1757585563&sign=bd2fc36f478af2e738147aaab489979d$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
+https://cc06.tv12.xyz/15.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 https://mgtv.ottiptv.cc/migu/673168223.m3u8?migutoken=20cef9400496b790786a33935704a1330c63b1a1464be3b2fe323f1f9e3821a18b0a1e7f1397a3f3a0a8ed9dba62a876451cf2481eb1a66f8d417967700e7f5403d67a2712a249dad49659c00e$订阅源
@@ -101,6 +131,8 @@ https://mgtv.ottiptv.cc/migu/673168223.m3u8?migutoken=20cef9400496b790786a339357
 https://mgtv.ottiptv.cc/mg/673168223.m3u8?token=cdf17d551a742294a4e284c6b9185da0e12443cfe9f1f19827a20895be47aa99a254a7e284cd1e3aeea39294fed2990c4daaeab16ca2822f1fdbcfa5d8f4becbc53c2a374279fe633c27d12b7a&tm=1757387428&sign=88a13ab1e00d5bbef980eca1f24793b7$订阅源
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 https://mgtv.ottiptv.cc/mg/673168223.m3u8?token=f6ac3d485df72a4a2cb3d499b4e0694247dd80b7d3dfcef60bc38f34c618a686ca614a9e184652ded6eca08d4e25af7e03931c0d5641fe04ac342df99fe7aad7c58a89fb1ca13528e81cc89040&tm=1757585563&sign=505e9694b4e19d9e6a55af06c4f1b207$订阅源
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
+https://cc06.tv12.xyz/16.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
 https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
@@ -109,6 +141,8 @@ https://mgtv.ottiptv.cc/migu/673168256.m3u8?migutoken=3f353a2e7486efd95f8b3a2a3c
 https://mgtv.ottiptv.cc/mg/673168256.m3u8?token=234fb1ae2a8c7b386da9142054d2f4332ec18bdaee62808f92a4efed1523ce11e31b966e5659f4753619f3c3f3462d55f3abe1770933084da192bf52799d33ed4216ac577e41ccac4a48cff367&tm=1757387428&sign=7623e273adda38d351a47f4684431b87$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 https://mgtv.ottiptv.cc/mg/673168256.m3u8?token=ab1db1f8cb291a8cc51c4ef018b5d06a3567da77ea9322e776d7e14ee1f14fdbeeee105a0fc59508c1aeafc13aa6c0c2b614dddc802513b09521b4e51d339fceca5ee08f76b7b954fb04420d4a&tm=1757585563&sign=560b439876686a1041d6afacd7c1dee6$订阅源
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
+https://cc06.tv12.xyz/17.m3u8$订阅源
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
 https://mgtv.ottiptv.cc/migu/923287154.m3u8?migutoken=e5b5711520646967224b3f79592be658cd2874bae600128d4aa51ca7acd45ff1c3c89c91ace8b318535d20a39fe058149dc8028ed756d4bcd7e58c3df56c4aec1ad06c2b5d1a45a281b933f95c$订阅源
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
@@ -296,6 +330,8 @@ https://mgtv.ottiptv.cc/mg/641886683.m3u8?token=6c49c50cdf8aa0eda0a00c38f95517f4
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
 https://mgtv.ottiptv.cc/mg/641886683.m3u8?token=f63bcfbc80d92753748871d53f5a1a858c9c9632c5db7e62bfe08d3996ffa6cd5a085d4038b51e204b6b46768c9548b185543e7ee7c5040d04d6494037acedc2765529407eeca8c087079811f1&tm=1757585563&sign=3e3b74cc397ff294019b8fe2ff64100e$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
+https://cc06.tv12.xyz/5.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
 https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
 https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai$订阅源
@@ -305,6 +341,8 @@ https://mgtv.ottiptv.cc/migu/641886773.m3u8?migutoken=cecf37e161b1ec65e2cc6c5725
 https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=0e47a58aee0c766cee42433ccc0df0f9dbaeb31233f0916a27c52231a008789243906c494256b43df6a92b0c6c47ec4b82b6d5800dad591ff808b64c6561983b4011b4a2d7f6d4b9bb499e989b&tm=1757387428&sign=909a01f044c6d44bc8e7dd339fa47d49$订阅源
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
 https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=de431ecd50ecd181ad43b652275ce234a93e3be6723f1f1b5a1a9cd0c5ec7e287a99d73df089162eded55501c285c8fb0b4ceafca711de5811a8018d5c29cbc899b8c2d67a6cbf9a46f5538f45&tm=1757585563&sign=374d178c185ff10d6a07c37a8c9d50f8$订阅源
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
+https://cc06.tv12.xyz/6.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🏀体育频道",广东体育
 http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🏀体育频道",广东体育
