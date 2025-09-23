@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-21 18:37:32,https://mgtv.ottiptv.cc/mg/608807420.m3u8?token=f85336aae348beccadf1d903eb5ea96e2e5eb841cc7cfbc1090d77e1bbbc73f31f2d33772bc4b81ff0d592adf1a8a69d34891ebb64c681c83a546be2bf44f29c30f66bcd4225426e6e9ab38bf6&tm=1757585563&sign=14697c625e5d6e574b3e83f84a00cbaa$订阅源
+2025-09-23 18:38:11,https://mgtv.ottiptv.cc/mg/608807420.m3u8?token=f85336aae348beccadf1d903eb5ea96e2e5eb841cc7cfbc1090d77e1bbbc73f31f2d33772bc4b81ff0d592adf1a8a69d34891ebb64c681c83a546be2bf44f29c30f66bcd4225426e6e9ab38bf6&tm=1757585563&sign=14697c625e5d6e574b3e83f84a00cbaa$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://mgtv.ottiptv.cc/mg/608807420.m3u8?token=f85336aae348beccadf1d903eb5ea96e2e5eb841cc7cfbc1090d77e1bbbc73f31f2d33772bc4b81ff0d592adf1a8a69d34891ebb64c681c83a546be2bf44f29c30f66bcd4225426e6e9ab38bf6&tm=1757585563&sign=14697c625e5d6e574b3e83f84a00cbaa$订阅源
@@ -19,9 +19,9 @@ CCTV-4,https://cc06.tv12.xyz/4.m3u8$订阅源
 CCTV-5,https://mgtv.ottiptv.cc/migu/641886683.m3u8?migutoken=105533d9e150febd9afc8a38ff5ff74681604e105790d2f63a1b602fdcad270a56185c8023e22cd81c2dc4c1608e70f80e776552cfe7de78ba9631124adf6394a2084634a354fae51c75e880a8$订阅源
 CCTV-5,https://mgtv.ottiptv.cc/mg/641886683.m3u8?token=6c49c50cdf8aa0eda0a00c38f95517f40d327f07d308d09aa820421c26b14024bae965495fdb9762668b4e8cc42f1809466015650dfe7d50bc0de4db09d8c3f952f68584699eef30b9f01bf17c&tm=1757387428&sign=4075eef6b0c4cfa748df7ba38739ade7$订阅源
 CCTV-5,https://mgtv.ottiptv.cc/mg/641886683.m3u8?token=f63bcfbc80d92753748871d53f5a1a858c9c9632c5db7e62bfe08d3996ffa6cd5a085d4038b51e204b6b46768c9548b185543e7ee7c5040d04d6494037acedc2765529407eeca8c087079811f1&tm=1757585563&sign=3e3b74cc397ff294019b8fe2ff64100e$订阅源
-CCTV-5,https://cc06.tv12.xyz/5.m3u8$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai$订阅源
+CCTV-5,https://cc06.tv12.xyz/5.m3u8$订阅源
 CCTV-5+,https://mgtv.ottiptv.cc/migu/641886773.m3u8?migutoken=cecf37e161b1ec65e2cc6c5725dcc55b9b17838c8b63d0d8aba47a5dd51d0f95a68c47383b8190b3cfe8d3a7b55c53ef22be2b1946059c0762912ade5e580094da3088599a553faacdb2fab482$订阅源
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=0e47a58aee0c766cee42433ccc0df0f9dbaeb31233f0916a27c52231a008789243906c494256b43df6a92b0c6c47ec4b82b6d5800dad591ff808b64c6561983b4011b4a2d7f6d4b9bb499e989b&tm=1757387428&sign=909a01f044c6d44bc8e7dd339fa47d49$订阅源
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=de431ecd50ecd181ad43b652275ce234a93e3be6723f1f1b5a1a9cd0c5ec7e287a99d73df089162eded55501c285c8fb0b4ceafca711de5811a8018d5c29cbc899b8c2d67a6cbf9a46f5538f45&tm=1757585563&sign=374d178c185ff10d6a07c37a8c9d50f8$订阅源
@@ -54,16 +54,16 @@ CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
 CCTV-13,https://mgtv.ottiptv.cc/migu/608807423.m3u8?migutoken=fad7fa9fca1846294a7961085a5fbd9e677ea714e81cc36cca6add603513aed12c759c32a01953e2b7b19823e1feb7e8865cafc76efad15cc1d345f469f9790854422170b0e2ff08c498fcce61$订阅源
 CCTV-13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?token=b7b7a1eee882f2820196334a329c3e21a6a1d368f92f0ec29a2a0ae14bdc52e9833a705e6cd1c392ebe554f7fb42d9b76be0999e7643920eeb703309ee58f6715ef2ea5bf34d98b300a1604f54&tm=1757387428&sign=f43935283ccf3bb2471780af9fec937f$订阅源
 CCTV-13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?token=08859da6d66a33d1269092c01b71e309556f7548ba4cff86fd8edcc3ded87466ce9846f7700cc00f7472b7e4e9277088bbd9f1a5ce4374f7755fc233a5594234851edec980efb4652cc1cb5ece&tm=1757585563&sign=ca093b57368004e7978c429b6aaa0fad$订阅源
-CCTV-13,https://cc06.tv12.xyz/14.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
+CCTV-13,https://cc06.tv12.xyz/14.m3u8$订阅源
 CCTV-14,https://mgtv.ottiptv.cc/migu/624878440.m3u8?migutoken=32730136b114b48eed911a701776693056ce52d2f6895bf834296d9b46d7e1e775fb01f693c3cf5842ad1eaf3ed4b76a2b0537536ed0604896df626295d80c29e21b8dd7a5e01a74cc81dde26f$订阅源
 CCTV-14,https://mgtv.ottiptv.cc/mg/624878440.m3u8?token=953330a5dc7cea7b8658e35233c251992ecc99f332b16dc02d445791f114e86e2bf3ddbdaa177ab5b2a848372c8419ffb9172b65c80896ecf39ebe9fdec75927ebb00b23b23220e5bdbbec45c0&tm=1757387428&sign=21ccc92916417627e8a29b611e6918be$订阅源
 CCTV-14,https://mgtv.ottiptv.cc/mg/624878440.m3u8?token=95014e04f1030df88590d5c4b34fd00aa3f1acbf341dcac350a6114d1d6609ecf197ae30d9d65b1ed85b0028494a8d83365ed666d1946942c3e903e20f6dd723237bf617a82333861167cc6f30&tm=1757585563&sign=bd2fc36f478af2e738147aaab489979d$订阅源
-CCTV-14,https://cc06.tv12.xyz/15.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+CCTV-14,https://cc06.tv12.xyz/15.m3u8$订阅源
 CCTV-15,https://mgtv.ottiptv.cc/migu/673168223.m3u8?migutoken=20cef9400496b790786a33935704a1330c63b1a1464be3b2fe323f1f9e3821a18b0a1e7f1397a3f3a0a8ed9dba62a876451cf2481eb1a66f8d417967700e7f5403d67a2712a249dad49659c00e$订阅源
 CCTV-15,https://mgtv.ottiptv.cc/mg/673168223.m3u8?token=cdf17d551a742294a4e284c6b9185da0e12443cfe9f1f19827a20895be47aa99a254a7e284cd1e3aeea39294fed2990c4daaeab16ca2822f1fdbcfa5d8f4becbc53c2a374279fe633c27d12b7a&tm=1757387428&sign=88a13ab1e00d5bbef980eca1f24793b7$订阅源
 CCTV-15,https://mgtv.ottiptv.cc/mg/673168223.m3u8?token=f6ac3d485df72a4a2cb3d499b4e0694247dd80b7d3dfcef60bc38f34c618a686ca614a9e184652ded6eca08d4e25af7e03931c0d5641fe04ac342df99fe7aad7c58a89fb1ca13528e81cc89040&tm=1757585563&sign=505e9694b4e19d9e6a55af06c4f1b207$订阅源
@@ -182,9 +182,9 @@ CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?token=f79fffb3903fb71a
 CCTV-5,https://mgtv.ottiptv.cc/migu/641886683.m3u8?migutoken=105533d9e150febd9afc8a38ff5ff74681604e105790d2f63a1b602fdcad270a56185c8023e22cd81c2dc4c1608e70f80e776552cfe7de78ba9631124adf6394a2084634a354fae51c75e880a8$订阅源
 CCTV-5,https://mgtv.ottiptv.cc/mg/641886683.m3u8?token=6c49c50cdf8aa0eda0a00c38f95517f40d327f07d308d09aa820421c26b14024bae965495fdb9762668b4e8cc42f1809466015650dfe7d50bc0de4db09d8c3f952f68584699eef30b9f01bf17c&tm=1757387428&sign=4075eef6b0c4cfa748df7ba38739ade7$订阅源
 CCTV-5,https://mgtv.ottiptv.cc/mg/641886683.m3u8?token=f63bcfbc80d92753748871d53f5a1a858c9c9632c5db7e62bfe08d3996ffa6cd5a085d4038b51e204b6b46768c9548b185543e7ee7c5040d04d6494037acedc2765529407eeca8c087079811f1&tm=1757585563&sign=3e3b74cc397ff294019b8fe2ff64100e$订阅源
-CCTV-5,https://cc06.tv12.xyz/5.m3u8$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai$订阅源
+CCTV-5,https://cc06.tv12.xyz/5.m3u8$订阅源
 CCTV-5+,https://mgtv.ottiptv.cc/migu/641886773.m3u8?migutoken=cecf37e161b1ec65e2cc6c5725dcc55b9b17838c8b63d0d8aba47a5dd51d0f95a68c47383b8190b3cfe8d3a7b55c53ef22be2b1946059c0762912ade5e580094da3088599a553faacdb2fab482$订阅源
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=0e47a58aee0c766cee42433ccc0df0f9dbaeb31233f0916a27c52231a008789243906c494256b43df6a92b0c6c47ec4b82b6d5800dad591ff808b64c6561983b4011b4a2d7f6d4b9bb499e989b&tm=1757387428&sign=909a01f044c6d44bc8e7dd339fa47d49$订阅源
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=de431ecd50ecd181ad43b652275ce234a93e3be6723f1f1b5a1a9cd0c5ec7e287a99d73df089162eded55501c285c8fb0b4ceafca711de5811a8018d5c29cbc899b8c2d67a6cbf9a46f5538f45&tm=1757585563&sign=374d178c185ff10d6a07c37a8c9d50f8$订阅源
