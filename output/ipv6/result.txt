@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-21 18:38:25,https://mgtv.ottiptv.cc/mg/631780532.m3u8?token=782622488420d058e771dc9f9ff4c4232e75b0b7506f4526e81bffd4e242d4735e7583d4af19a9140511ac6dffe9cfda872429af3c53636f3a4d5c80f0750b7c95b974a8c0632ff6e4d6473636&tm=1757387428&sign=98b036e589ba5e0908dedb8e40356e76$订阅源
+2025-10-23 18:34:12,https://mgtv.ottiptv.cc/mg/631780532.m3u8?token=782622488420d058e771dc9f9ff4c4232e75b0b7506f4526e81bffd4e242d4735e7583d4af19a9140511ac6dffe9cfda872429af3c53636f3a4d5c80f0750b7c95b974a8c0632ff6e4d6473636&tm=1757387428&sign=98b036e589ba5e0908dedb8e40356e76$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://mgtv.ottiptv.cc/mg/631780532.m3u8?token=782622488420d058e771dc9f9ff4c4232e75b0b7506f4526e81bffd4e242d4735e7583d4af19a9140511ac6dffe9cfda872429af3c53636f3a4d5c80f0750b7c95b974a8c0632ff6e4d6473636&tm=1757387428&sign=98b036e589ba5e0908dedb8e40356e76$订阅源
@@ -41,8 +41,8 @@ CCTV-13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?token=b7b7a1eee882f2820196334a
 CCTV-13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?token=08859da6d66a33d1269092c01b71e309556f7548ba4cff86fd8edcc3ded87466ce9846f7700cc00f7472b7e4e9277088bbd9f1a5ce4374f7755fc233a5594234851edec980efb4652cc1cb5ece&tm=1757585563&sign=ca093b57368004e7978c429b6aaa0fad$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
-CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
+CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-14,https://mgtv.ottiptv.cc/migu/624878440.m3u8?migutoken=32730136b114b48eed911a701776693056ce52d2f6895bf834296d9b46d7e1e775fb01f693c3cf5842ad1eaf3ed4b76a2b0537536ed0604896df626295d80c29e21b8dd7a5e01a74cc81dde26f$订阅源
 CCTV-14,https://mgtv.ottiptv.cc/mg/624878440.m3u8?token=953330a5dc7cea7b8658e35233c251992ecc99f332b16dc02d445791f114e86e2bf3ddbdaa177ab5b2a848372c8419ffb9172b65c80896ecf39ebe9fdec75927ebb00b23b23220e5bdbbec45c0&tm=1757387428&sign=21ccc92916417627e8a29b611e6918be$订阅源
 CCTV-14,https://mgtv.ottiptv.cc/mg/624878440.m3u8?token=95014e04f1030df88590d5c4b34fd00aa3f1acbf341dcac350a6114d1d6609ecf197ae30d9d65b1ed85b0028494a8d83365ed666d1946942c3e903e20f6dd723237bf617a82333861167cc6f30&tm=1757585563&sign=bd2fc36f478af2e738147aaab489979d$订阅源
@@ -89,6 +89,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 
 💰央视付费频道,#genre#
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8$订阅源
+央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8$订阅源
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8$订阅源
