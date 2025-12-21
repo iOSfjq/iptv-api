@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-19 18:26:28,https://mgtv.ottiptv.cc/mg/624878271.m3u8?token=c0fe742d36fdb28f980519218cc888e3aadbc4e4c1ac0fe94aab8ba0f9dca35818bde68cd9caa8a422cf4d30bc3f776e7aec506ab2af1cffcf36d33b29c2587371d6e935f246d7f789c9ac9385&tm=1757585563&sign=da85a946186bdcabda2c74531ad60abb$订阅源
+2025-12-21 18:24:36,https://mgtv.ottiptv.cc/mg/624878271.m3u8?token=c0fe742d36fdb28f980519218cc888e3aadbc4e4c1ac0fe94aab8ba0f9dca35818bde68cd9caa8a422cf4d30bc3f776e7aec506ab2af1cffcf36d33b29c2587371d6e935f246d7f789c9ac9385&tm=1757585563&sign=da85a946186bdcabda2c74531ad60abb$订阅源
 
 📺央视频道,#genre#
 CCTV-3,https://mgtv.ottiptv.cc/mg/624878271.m3u8?token=c0fe742d36fdb28f980519218cc888e3aadbc4e4c1ac0fe94aab8ba0f9dca35818bde68cd9caa8a422cf4d30bc3f776e7aec506ab2af1cffcf36d33b29c2587371d6e935f246d7f789c9ac9385&tm=1757585563&sign=da85a946186bdcabda2c74531ad60abb$订阅源
@@ -34,7 +34,6 @@ CCTV-13,https://mgtv.ottiptv.cc/migu/608807423.m3u8?migutoken=fad7fa9fca1846294a
 CCTV-13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?token=b7b7a1eee882f2820196334a329c3e21a6a1d368f92f0ec29a2a0ae14bdc52e9833a705e6cd1c392ebe554f7fb42d9b76be0999e7643920eeb703309ee58f6715ef2ea5bf34d98b300a1604f54&tm=1757387428&sign=f43935283ccf3bb2471780af9fec937f$订阅源
 CCTV-13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?token=08859da6d66a33d1269092c01b71e309556f7548ba4cff86fd8edcc3ded87466ce9846f7700cc00f7472b7e4e9277088bbd9f1a5ce4374f7755fc233a5594234851edec980efb4652cc1cb5ece&tm=1757585563&sign=ca093b57368004e7978c429b6aaa0fad$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
-CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 CCTV-14,https://mgtv.ottiptv.cc/migu/624878440.m3u8?migutoken=32730136b114b48eed911a701776693056ce52d2f6895bf834296d9b46d7e1e775fb01f693c3cf5842ad1eaf3ed4b76a2b0537536ed0604896df626295d80c29e21b8dd7a5e01a74cc81dde26f$订阅源
@@ -44,7 +43,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-15,https://mgtv.ottiptv.cc/migu/673168223.m3u8?migutoken=20cef9400496b790786a33935704a1330c63b1a1464be3b2fe323f1f9e3821a18b0a1e7f1397a3f3a0a8ed9dba62a876451cf2481eb1a66f8d417967700e7f5403d67a2712a249dad49659c00e$订阅源
 CCTV-15,https://mgtv.ottiptv.cc/mg/673168223.m3u8?token=cdf17d551a742294a4e284c6b9185da0e12443cfe9f1f19827a20895be47aa99a254a7e284cd1e3aeea39294fed2990c4daaeab16ca2822f1fdbcfa5d8f4becbc53c2a374279fe633c27d12b7a&tm=1757387428&sign=88a13ab1e00d5bbef980eca1f24793b7$订阅源
 CCTV-15,https://mgtv.ottiptv.cc/mg/673168223.m3u8?token=f6ac3d485df72a4a2cb3d499b4e0694247dd80b7d3dfcef60bc38f34c618a686ca614a9e184652ded6eca08d4e25af7e03931c0d5641fe04ac342df99fe7aad7c58a89fb1ca13528e81cc89040&tm=1757585563&sign=505e9694b4e19d9e6a55af06c4f1b207$订阅源
-CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,https://mgtv.ottiptv.cc/migu/673168256.m3u8?migutoken=3f353a2e7486efd95f8b3a2a3c008ce67713baac7a59b01b8d3ca384275df1e5a8e6b43bec97f53b6e5d8cb9744ae2db39d23ac4030d4e77e7b657182a28cd905572ee288c25f435f584dff4c0$订阅源
 CCTV-17,https://mgtv.ottiptv.cc/mg/673168256.m3u8?token=234fb1ae2a8c7b386da9142054d2f4332ec18bdaee62808f92a4efed1523ce11e31b966e5659f4753619f3c3f3462d55f3abe1770933084da192bf52799d33ed4216ac577e41ccac4a48cff367&tm=1757387428&sign=7623e273adda38d351a47f4684431b87$订阅源
 CCTV-17,https://mgtv.ottiptv.cc/mg/673168256.m3u8?token=ab1db1f8cb291a8cc51c4ef018b5d06a3567da77ea9322e776d7e14ee1f14fdbeeee105a0fc59508c1aeafc13aa6c0c2b614dddc802513b09521b4e51d339fceca5ee08f76b7b954fb04420d4a&tm=1757585563&sign=560b439876686a1041d6afacd7c1dee6$订阅源
@@ -69,24 +67,14 @@ CETV-4,https://mgtv.ottiptv.cc/mg/923287339.m3u8?token=2c12810f65515a766c876571e
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2$订阅源
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$订阅源
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2$订阅源
-凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8$订阅源
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
-纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
-纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8$订阅源
-纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8$订阅源
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$订阅源
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
-三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8$订阅源
 
 💰央视付费频道,#genre#
-央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8$订阅源
-央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8$订阅源
-第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
-风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
-风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8$订阅源
 
 📡卫视频道,#genre#
 广东卫视,https://mgtv.ottiptv.cc/migu/608831231.m3u8?migutoken=ee51551f0725b6d96a15809d4e78596ffacb89dfed9d6fb5b07a236dcbb03d43a02036abea6b5364e24134f2752116eb46c53f569d0936ea30ee9e35f8f6d77d0fba62834b9439656542a13782$订阅源
@@ -97,11 +85,9 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 湖北卫视,https://mgtv.ottiptv.cc/mg/947472496.m3u8?token=e5a0b28e8ae82ad7b9381cefef3a9eeb629d5e452c2dc04ada0083a25525da8d6ae2615dc16cb283b2a4c47e76684dbbf06e9c08e50df6644e468dd757b9fa97fc340e13578f15a444d79895f9&tm=1757387428&sign=856798395c984a5627b9d46e6ee51940$订阅源
 湖北卫视,https://mgtv.ottiptv.cc/mg/947472496.m3u8?token=ab14358b9ad121a09a2e6d0dfb13b48db86aefeeea27b845f7ad5ce97acdb1c2b6a021f80ffe89959f30ef759e88681b731d8d58960b20d331ccac4fefc01402beaec1e494a19af4630a137359&tm=1757585563&sign=a556da2c0a9f28b40b096c43bc99c20e$订阅源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
-黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 东方卫视,https://mgtv.ottiptv.cc/migu/651632648.m3u8?migutoken=d494a93cdaab5216affab514ab9d8ce822d12b55be24b5997e542511d65fb15018040b6e0cfbd32045397e27d4d5f8edc0081559918083bf8900c30ff4119cdbad4cdf8ba3861024d6cfd8559b$订阅源
 东方卫视,https://mgtv.ottiptv.cc/mg/651632648.m3u8?token=776b8048f4bc8d513ab3ea0df3e59c585a3d11e2da00b6c956d09ca4a7283393ff6e1fa169c8d229729ee5f394f0d9625c7ad18933383d6ec04e405a69d5b249c8ffc844644bc54d649917148d&tm=1757387428&sign=25dd6191b2e0068705c5e7bfb4dbb000$订阅源
 东方卫视,https://mgtv.ottiptv.cc/mg/651632648.m3u8?token=d90c98599afd9093ff0890b887893a6c323c55e2abb5c6ecb0303e7dbe9f315dfa5f80dfcca9567166d3b53ad7592be9bacf0646c8c96ee9bc1b3b6fa6ebc82db14ac61f4e996e787d721395bf&tm=1757585563&sign=8abab877a5140e4bb60767957c8bae87$订阅源
-东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
 东南卫视,https://mgtv.ottiptv.cc/migu/849116810.m3u8?migutoken=f0c36ef6419d5361be6e9c9d29d9127eab1c969a759de9c38cd0ac381963a6425b14f2da78db5ba0ea7f4a795cd5757b6d2f18af99d55a143f1e4f3c498281eef296b78200adb9daa9ff1af607$订阅源
 东南卫视,https://mgtv.ottiptv.cc/mg/849116810.m3u8?token=a643ff23af93f589560ac459f25c6195eeaea3afd743d1544a33db6953509bcdf2eab8de77b42c65fca34f59c600d0b4b36a103393a5b0d10b77ccee85b3157687bef690b25961fd700d4f56d2&tm=1757387428&sign=14ee721d31c97ab861423edd42edf6d9$订阅源
 东南卫视,https://mgtv.ottiptv.cc/mg/849116810.m3u8?token=64f2dd8eeaa3d91cdcf36ef5d7a0aec85861fd671b596ea6fd6e4ebed87aabc137f526d0efe0a0ae1d2c36d3b8221fb5641a57089ae4a92f3192b64b19c21a18da558826022bcd81dcc08eb45f&tm=1757585563&sign=fb3aef0ff57bb92376209d7d4c8e464f$订阅源
@@ -158,8 +144,4 @@ CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=0e47a58aee0c766cee42433c
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=de431ecd50ecd181ad43b652275ce234a93e3be6723f1f1b5a1a9cd0c5ec7e287a99d73df089162eded55501c285c8fb0b4ceafca711de5811a8018d5c29cbc899b8c2d67a6cbf9a46f5538f45&tm=1757585563&sign=374d178c185ff10d6a07c37a8c9d50f8$订阅源
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$订阅源
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
-纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
-纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8$订阅源
-纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8$订阅源
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8$订阅源
