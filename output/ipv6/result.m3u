@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iOSfjq/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-27 18:23:47
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-29 18:27:27
 https://mgtv.ottiptv.cc/mg/631780421.m3u8?token=f1eb6fd00c24898b309e9a0edf4a3ea0f3eb2352ecb88740df440cd3ac9202c58a59bfe33e827cf048977397c053b330f7e2c705c1e530156f4cc8349e1526e7c39c0b3eca1f2dcd0ef2f4c799&tm=1757387428&sign=842ea63e29c6f44221b44812afe594f3$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://mgtv.ottiptv.cc/mg/631780421.m3u8?token=f1eb6fd00c24898b309e9a0edf4a3ea0f3eb2352ecb88740df440cd3ac9202c58a59bfe33e827cf048977397c053b330f7e2c705c1e530156f4cc8349e1526e7c39c0b3eca1f2dcd0ef2f4c799&tm=1757387428&sign=842ea63e29c6f44221b44812afe594f3$订阅源
@@ -61,8 +61,6 @@ https://mgtv.ottiptv.cc/mg/608807423.m3u8?token=b7b7a1eee882f2820196334a329c3e21
 https://mgtv.ottiptv.cc/mg/608807423.m3u8?token=08859da6d66a33d1269092c01b71e309556f7548ba4cff86fd8edcc3ded87466ce9846f7700cc00f7472b7e4e9277088bbd9f1a5ce4374f7755fc233a5594234851edec980efb4652cc1cb5ece&tm=1757585563&sign=ca093b57368004e7978c429b6aaa0fad$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
@@ -203,8 +201,6 @@ https://mgtv.ottiptv.cc/migu/947472502.m3u8?migutoken=2c454a6a1390068a5eefa4608e
 https://mgtv.ottiptv.cc/mg/947472502.m3u8?token=fa6b867c9d3bbe7ddcb8b148eee510b620bb98cc174d5020f4440865dc01f30aa058d88d56e29882e91f66d4974ff231a50f5455a2660540a5b85868e4580559d3b70a84b0f83cf02b15ea4793&tm=1757387428&sign=ac026c3b287e05f7969b64e06f06693e$订阅源
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
 https://mgtv.ottiptv.cc/mg/947472502.m3u8?token=4c6bb66116c997924a6f932481d8c5fbb6c947b6df3a1c2efb519e4838ccd50cc57b42a267e01dd0f490f0968606f568b63a123962d435f2b5ed3b21429a09d5f8fc37417546505d252cafad85&tm=1757585563&sign=b929805fb86fd936a954e7bd1e0d837c$订阅源
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
-https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 https://mgtv.ottiptv.cc/migu/790187291.m3u8?migutoken=92e7b741ab16d16c1fa21c9cbed94c90887967d2386a7284051261e1d63efa7f76b2a4ad9a1812dbaaa2cc2450bb3ae0cc377f07ab446eb4effb58c7f987f050a119de81631e0221c327128196$订阅源
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -283,5 +279,3 @@ https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5ed
 https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8$订阅源
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
 https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8$订阅源
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🏀体育频道",五星体育
-http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8$订阅源
