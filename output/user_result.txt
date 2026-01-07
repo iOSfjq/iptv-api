@@ -1,12 +1,10 @@
 🕘️更新时间,#genre#
-2026-01-05 18:28:06,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
+2026-01-07 18:27:46,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
-CCTV-5,http://39.152.103.17:8089/tsfile/live/1004_1.m3u8$订阅源
 CCTV-6,http://39.152.103.17:8089/tsfile/live/1005_1.m3u8$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
-CCTV-7,http://27.41.245.32:801/hls/7/index.m3u8$订阅源
 CCTV-7,http://39.152.103.17:8089/tsfile/live/1006_1.m3u8$订阅源
 CCTV-8,http://27.41.245.32:801/hls/8/index.m3u8$订阅源
 CCTV-8,http://39.152.103.17:8089/tsfile/live/1007_1.m3u8$订阅源
@@ -22,6 +20,8 @@ CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=28201805160
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40$订阅源
 翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv$订阅源
+明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23$订阅源
+明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv$订阅源
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$订阅源
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$订阅源
@@ -59,7 +59,6 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$订阅源
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8$订阅源
 黑龙江卫视,http://39.152.103.17:8089/tsfile/live/1055_1.m3u8$订阅源
-黑龙江卫视,http://btjg.net:809/hls/39/index.m3u8$订阅源
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8$订阅源
 重庆卫视,http://39.152.103.17:8089/tsfile/live/1048_1.m3u8$订阅源
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
@@ -68,8 +67,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8$订阅源
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
-广西卫视,http://39.152.103.17:8089/tsfile/live/1077_1.m3u8$订阅源
 广西卫视,http://btjg.net:809/hls/40/index.m3u8$订阅源
+广西卫视,http://39.152.103.17:8089/tsfile/live/1077_1.m3u8$订阅源
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8$订阅源
 海南卫视,http://39.152.103.17:8089/tsfile/live/1046_1.m3u8$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
@@ -84,8 +83,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
-四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8$订阅源
 四川卫视,http://btjg.net:809/hls/48/index.m3u8$订阅源
+四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8$订阅源
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8$订阅源
 西藏卫视,http://btjg.net:809/hls/140/index.m3u8$订阅源
@@ -113,7 +112,6 @@ CHC动作电影,http://129.150.54.232:10001/yy/1382736823$订阅源
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-CCTV-5,http://39.152.103.17:8089/tsfile/live/1004_1.m3u8$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40$订阅源
