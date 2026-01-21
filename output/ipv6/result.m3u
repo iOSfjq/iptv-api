@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iOSfjq/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-19 18:31:28
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-21 18:31:04
 https://mgtv.ottiptv.cc/mg/631780421.m3u8?token=7e7f5acfb8170d72b306944f15c2a8ab1b505d3b1217934441b839c834b96d436dd161b36c9b83e36c9fdd8a23965647e39402316c06132bdb41774811c3e5b738983e203db493cffa14d0199c&tm=1757585563&sign=a675f65668a8db667630d55538e2d13c$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://mgtv.ottiptv.cc/mg/631780421.m3u8?token=7e7f5acfb8170d72b306944f15c2a8ab1b505d3b1217934441b839c834b96d436dd161b36c9b83e36c9fdd8a23965647e39402316c06132bdb41774811c3e5b738983e203db493cffa14d0199c&tm=1757585563&sign=a675f65668a8db667630d55538e2d13c$订阅源
