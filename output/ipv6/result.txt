@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-03 18:42:02,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-02-05 18:43:05,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -101,7 +101,6 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 东南卫视,https://mgtv.ottiptv.cc/mg/849116810.m3u8?token=64f2dd8eeaa3d91cdcf36ef5d7a0aec85861fd671b596ea6fd6e4ebed87aabc137f526d0efe0a0ae1d2c36d3b8221fb5641a57089ae4a92f3192b64b19c21a18da558826022bcd81dcc08eb45f&tm=1757585563&sign=fb3aef0ff57bb92376209d7d4c8e464f$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 海南卫视,https://mgtv.ottiptv.cc/migu/947472502.m3u8?migutoken=2c454a6a1390068a5eefa4608e524d6191a24ac88cb89769cd8bcb5dd337843a189a1d9bcc7385190f729328e7c47fc49946238975ff239c413c6a9e01184e33a8097a36c1ca8d3246913b0fdb$订阅源
 海南卫视,https://mgtv.ottiptv.cc/mg/947472502.m3u8?token=fa6b867c9d3bbe7ddcb8b148eee510b620bb98cc174d5020f4440865dc01f30aa058d88d56e29882e91f66d4974ff231a50f5455a2660540a5b85868e4580559d3b70a84b0f83cf02b15ea4793&tm=1757387428&sign=ac026c3b287e05f7969b64e06f06693e$订阅源
