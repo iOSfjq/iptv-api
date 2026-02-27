@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-02-25 18:50:53,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-02-27 18:37:53,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
-CCTV-5+,https://mgtv.ottiptv.cc/migu/641886773.m3u8?migutoken=cecf37e161b1ec65e2cc6c5725dcc55b9b17838c8b63d0d8aba47a5dd51d0f95a68c47383b8190b3cfe8d3a7b55c53ef22be2b1946059c0762912ade5e580094da3088599a553faacdb2fab482$订阅源
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=0e47a58aee0c766cee42433ccc0df0f9dbaeb31233f0916a27c52231a008789243906c494256b43df6a92b0c6c47ec4b82b6d5800dad591ff808b64c6561983b4011b4a2d7f6d4b9bb499e989b&tm=1757387428&sign=909a01f044c6d44bc8e7dd339fa47d49$订阅源
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=de431ecd50ecd181ad43b652275ce234a93e3be6723f1f1b5a1a9cd0c5ec7e287a99d73df089162eded55501c285c8fb0b4ceafca711de5811a8018d5c29cbc899b8c2d67a6cbf9a46f5538f45&tm=1757585563&sign=374d178c185ff10d6a07c37a8c9d50f8$订阅源
 CCTV-6,https://mgtv.ottiptv.cc/migu/624878396.m3u8?migutoken=df17a5d8ca39dc2813fcb4479b18a3b243beafefadcb7a8e49f7680851d9e9ad4a35079812fb80fb7df2ff4e169dff20c80e1ea6b4d15385ccb75c7f02729612b7c7e258bc15842862f2f6c649$订阅源
@@ -141,7 +140,6 @@ CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?token=f79fffb3903fb71a
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-CCTV-5+,https://mgtv.ottiptv.cc/migu/641886773.m3u8?migutoken=cecf37e161b1ec65e2cc6c5725dcc55b9b17838c8b63d0d8aba47a5dd51d0f95a68c47383b8190b3cfe8d3a7b55c53ef22be2b1946059c0762912ade5e580094da3088599a553faacdb2fab482$订阅源
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=0e47a58aee0c766cee42433ccc0df0f9dbaeb31233f0916a27c52231a008789243906c494256b43df6a92b0c6c47ec4b82b6d5800dad591ff808b64c6561983b4011b4a2d7f6d4b9bb499e989b&tm=1757387428&sign=909a01f044c6d44bc8e7dd339fa47d49$订阅源
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?token=de431ecd50ecd181ad43b652275ce234a93e3be6723f1f1b5a1a9cd0c5ec7e287a99d73df089162eded55501c285c8fb0b4ceafca711de5811a8018d5c29cbc899b8c2d67a6cbf9a46f5538f45&tm=1757585563&sign=374d178c185ff10d6a07c37a8c9d50f8$订阅源
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
