@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iOSfjq/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-09 18:44:26
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-11 18:38:49
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -153,8 +153,6 @@ https://mgtv.ottiptv.cc/migu/608831231.m3u8?migutoken=ee51551f0725b6d96a15809d4e
 https://mgtv.ottiptv.cc/mg/608831231.m3u8?token=bb3cb427f3f279e54e1ba53ba9cc467066329cebfd3f611cd024f214d5b0897d26f8439fc4e52a2d82dd7ed9e42cef243ffdc90b277e0cc03a1469afa27447a5657312dc40eaca47e4fbc36eed&tm=1757387428&sign=b275b8e30dc5da9d45cb06c6bf7e439c$订阅源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
 https://mgtv.ottiptv.cc/mg/608831231.m3u8?token=989c369ec49505525ec1f01ccaf05a61cdfcfb56272fb77c1aad1933444ca34642c091aae55bc032d397af4d4dbeb9fef18ad92eb1ea8d0c9d432b1d4ec4ee0920445de24db1c113bdb855b69b&tm=1757585563&sign=5a37d710a4a9005352a24755fed0daa3$订阅源
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 https://mgtv.ottiptv.cc/migu/947472496.m3u8?migutoken=295742a1b1501b0b9cf33d6bb5949eca1435f74cc65e1f9346a9724993e0822cfdd06aac62c29acfd6b4409b622f5b6f2ffa969578a4ca77a7e75d050627f67a60066a35744af08e0c7dcfe922$订阅源
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视

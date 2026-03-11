@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-09 18:44:26,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-03-11 18:38:49,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -84,7 +84,6 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 广东卫视,https://mgtv.ottiptv.cc/migu/608831231.m3u8?migutoken=ee51551f0725b6d96a15809d4e78596ffacb89dfed9d6fb5b07a236dcbb03d43a02036abea6b5364e24134f2752116eb46c53f569d0936ea30ee9e35f8f6d77d0fba62834b9439656542a13782$订阅源
 广东卫视,https://mgtv.ottiptv.cc/mg/608831231.m3u8?token=bb3cb427f3f279e54e1ba53ba9cc467066329cebfd3f611cd024f214d5b0897d26f8439fc4e52a2d82dd7ed9e42cef243ffdc90b277e0cc03a1469afa27447a5657312dc40eaca47e4fbc36eed&tm=1757387428&sign=b275b8e30dc5da9d45cb06c6bf7e439c$订阅源
 广东卫视,https://mgtv.ottiptv.cc/mg/608831231.m3u8?token=989c369ec49505525ec1f01ccaf05a61cdfcfb56272fb77c1aad1933444ca34642c091aae55bc032d397af4d4dbeb9fef18ad92eb1ea8d0c9d432b1d4ec4ee0920445de24db1c113bdb855b69b&tm=1757585563&sign=5a37d710a4a9005352a24755fed0daa3$订阅源
-浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
 湖北卫视,https://mgtv.ottiptv.cc/migu/947472496.m3u8?migutoken=295742a1b1501b0b9cf33d6bb5949eca1435f74cc65e1f9346a9724993e0822cfdd06aac62c29acfd6b4409b622f5b6f2ffa969578a4ca77a7e75d050627f67a60066a35744af08e0c7dcfe922$订阅源
 湖北卫视,https://mgtv.ottiptv.cc/mg/947472496.m3u8?token=e5a0b28e8ae82ad7b9381cefef3a9eeb629d5e452c2dc04ada0083a25525da8d6ae2615dc16cb283b2a4c47e76684dbbf06e9c08e50df6644e468dd757b9fa97fc340e13578f15a444d79895f9&tm=1757387428&sign=856798395c984a5627b9d46e6ee51940$订阅源
 湖北卫视,https://mgtv.ottiptv.cc/mg/947472496.m3u8?token=ab14358b9ad121a09a2e6d0dfb13b48db86aefeeea27b845f7ad5ce97acdb1c2b6a021f80ffe89959f30ef759e88681b731d8d58960b20d331ccac4fefc01402beaec1e494a19af4630a137359&tm=1757585563&sign=a556da2c0a9f28b40b096c43bc99c20e$订阅源
