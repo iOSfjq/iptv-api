@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iOSfjq/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-05 18:32:54
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-07 18:55:37
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -205,8 +205,6 @@ https://mgtv.ottiptv.cc/migu/947472506.m3u8?migutoken=2d77efccaf88fed97f12eea4be
 https://mgtv.ottiptv.cc/mg/947472506.m3u8?token=279ac63bad56939adeca1a8e429ca2e1b2612bd6b4bc770210b49c9db6aea5ec2b74ec4960cc69f8f62ba44e60951a05299c76483ee338cac54a582d4ecb574fd669f40c3c38525f913eda1bf1&tm=1757387428&sign=b00edce4c5ea5cf69c64426720a80868$订阅源
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
 https://mgtv.ottiptv.cc/mg/947472506.m3u8?token=51e2f578946d80509320b86df662ea1a10f4f3c4cfc30b903443c2c66c5694d2a433f2954f048325cff563940655e8d321d33f54bdfedc8c396dcf0f5008e7b98b38b63e3cfb2d851a5881d1c2&tm=1757585563&sign=f1d53e960b4c101b948f1b034bf64d3a$订阅源
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 https://mgtv.ottiptv.cc/migu/738910838.m3u8?migutoken=a6544752a1e87d993a05fe8da2c2922bc1082dd647484e4c03cef0acfdea1889368b3e094b5f0b6426bbb17d4ae0225b5b2382a05cf4f01f2ba987e306102f1116415dd166e4d71d52c6a984a8$订阅源
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
