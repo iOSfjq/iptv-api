@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iOSfjq/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-13 19:18:26
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-15 18:59:12
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -13,6 +13,8 @@ https://mgtv.ottiptv.cc/migu/673168140.m3u8?migutoken=e6416f5c2b21960f15093a8945
 https://mgtv.ottiptv.cc/mg/673168140.m3u8?token=60e8ab435821bdfe6b921cf2eb6d9ff66b3c26f1588eb85aa005422e783722555f9e86e4662579a1ad132733c06fcc0322435b6748325ae6bc100a53f2e00d4a9091c6ff43762b4a669bc27417&tm=1757387428&sign=b9489a92706faead9cfd1be36f43a701$订阅源
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 https://mgtv.ottiptv.cc/mg/673168140.m3u8?token=61998afa5b98dfca3aa15abc0d3741e0d8f54958e7efedcb02aa6f499bcd74f91d21085ecee1e6c36f348a66f3437d0fb293a4ebd3fa74a031927357115378d5d1144965c4b9ca4576b05b3a1a&tm=1757585563&sign=486d10e2038bea77631dcfe8b9642fd3$订阅源
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
+https://xykt-fix.github.io/Y77.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
 https://mgtv.ottiptv.cc/migu/624878405.m3u8?migutoken=53424e1e636ffd0ccaf1445b55fd4a730505b5773658f77b584ef1a52771f7bd6ec9de0bf9076b50fc76a446d6d5655eec2edb74888d2d8b58edd05c8848ed1e37030196efcb435728c2be55fb$订阅源
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10

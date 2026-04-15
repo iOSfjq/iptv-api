@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-13 19:18:26,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-04-15 18:59:12,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -8,6 +8,7 @@ CCTV-8,https://mgtv.ottiptv.cc/mg/624878356.m3u8?token=d4477bd72d25cb82c0478ccba
 CCTV-9,https://mgtv.ottiptv.cc/migu/673168140.m3u8?migutoken=e6416f5c2b21960f15093a894515779fc686808248662b3e39b3064d3feab3681c25602455ab90642d724401b84fd1c918eb662f80b7c4d243071b9caa580187199aae1568b9190f4e3977e837$订阅源
 CCTV-9,https://mgtv.ottiptv.cc/mg/673168140.m3u8?token=60e8ab435821bdfe6b921cf2eb6d9ff66b3c26f1588eb85aa005422e783722555f9e86e4662579a1ad132733c06fcc0322435b6748325ae6bc100a53f2e00d4a9091c6ff43762b4a669bc27417&tm=1757387428&sign=b9489a92706faead9cfd1be36f43a701$订阅源
 CCTV-9,https://mgtv.ottiptv.cc/mg/673168140.m3u8?token=61998afa5b98dfca3aa15abc0d3741e0d8f54958e7efedcb02aa6f499bcd74f91d21085ecee1e6c36f348a66f3437d0fb293a4ebd3fa74a031927357115378d5d1144965c4b9ca4576b05b3a1a&tm=1757585563&sign=486d10e2038bea77631dcfe8b9642fd3$订阅源
+CCTV-9,https://xykt-fix.github.io/Y77.m3u8$订阅源
 CCTV-10,https://mgtv.ottiptv.cc/migu/624878405.m3u8?migutoken=53424e1e636ffd0ccaf1445b55fd4a730505b5773658f77b584ef1a52771f7bd6ec9de0bf9076b50fc76a446d6d5655eec2edb74888d2d8b58edd05c8848ed1e37030196efcb435728c2be55fb$订阅源
 CCTV-10,https://mgtv.ottiptv.cc/mg/624878405.m3u8?token=caa170b7cab721ce49bc50b69eaaf8cacf19071d92f8f4e6e93fa12c53a549c9c9067a5d501cf41811a575dad3cab6117bb732ac303198449d059d6c22da3a4631d2ede535c75ffe0522082268&tm=1757387428&sign=724c99ea6d84a5be2b0a5adf3b20467c$订阅源
 CCTV-10,https://mgtv.ottiptv.cc/mg/624878405.m3u8?token=141ae2ba1047cd6cec626213d494f5d7662ceb0de626c8a10cc10ff3e1bce28fa4daaa5e8403c475dcc2c0462dac381c43ad4e685d452fcbe8a38ebbe19bdffb284f82e12bcf26b97ff719dabc&tm=1757585563&sign=884759d83e64f4e3103b92646d473580$订阅源
