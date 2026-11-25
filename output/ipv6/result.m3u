@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iOSfjq/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-24 05:54:01
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-26 03:45:23
 https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
@@ -35,8 +35,6 @@ http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw$订阅源
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8$订阅源
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
-https://mursor.ottiptv.cc/migu/947472496.m3u8?migutoken=bcb2afc893f89d88e9033d46c360090642d155b99db8e7af2fe808af796d24ee31cf3c9cd730d474f1bfecca953c0f0b7409d6ec951f072f51a7cbf6f07d077f2ee45475bd42ccf9d519f0ae58$订阅源
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
 https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=9c288464a58f0489f624fb926958c3de8c0204828ebbb799d8e17c1b9b89086bfd1806931a219039d12c17428ef77c199bcd2d101c456edf44bea9f4d7c76f30164a651a1bac883517696f5380$订阅源
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
