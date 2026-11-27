@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-26 03:45:23,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
+2026-11-28 03:20:58,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
@@ -25,7 +25,6 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 
 📡卫视频道,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8$订阅源
-东方卫视,https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=9c288464a58f0489f624fb926958c3de8c0204828ebbb799d8e17c1b9b89086bfd1806931a219039d12c17428ef77c199bcd2d101c456edf44bea9f4d7c76f30164a651a1bac883517696f5380$订阅源
 东方卫视,https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=fea6372c5221bf81b2a46443eaef5365a531410ba15c342bc7217c4c3b1feebc5eb1cddb3bd8db547bc962c7e5c705d742fb35edd779e2ddf2ef075ca21be7d283b1d2faa815d3e1bb6ff852cc$订阅源
 东方卫视,https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=f68c8a74b9ee0c1cd66f26cfe4a0461f8e61afd7de15da68453102be74292f1d698e4d9f59175bd59f18312433ee1ed7e775b5ad909da1c150088ba16e8858d353d32d3fb7bce5b498b8558b86$订阅源
 东方卫视,https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=a2869617a58c5d1b39e898155b1491d80d4a88ebe9fac572d159f3ad444cda4ccb3d0df416d4fad1c314f151cacb95131d348e444f35cc18d9743f5f96eeba78e2801600538304a9d0de14a66e$订阅源
@@ -33,6 +32,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 东方卫视,https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=c492ade9061b3d1c3c6fc702cb2e074e0808b3235cdc2a56f8a12abce5b396456acaf55e84dd821fa44eb3d9de8705520f96c2084b3814fdf9da84c5f4071ad28465e78ae2bddc62ab2b9f24c1$订阅源
 东方卫视,https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=7ff88cba92d40a43840b29838ad7d27aef67545557361f7178759b4f02f3cc8b8c43a35deb4f20693fa2aec029ff44a0072ae29b471ddb472ae42588a16280b197d6dbd3ce6a8ffe8ba6ec2671$订阅源
 东方卫视,https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=55eda0511109e1d5ba18f140d7e156ae298256b384ec2b71f967d124cfa9e702a55ffb5b4f3e5a7af94c54ddf69dd434c60669d493ff4b5388bb8b64e9b02896b57b0e68aa7f29a0285c6ab621$订阅源
+东方卫视,https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=20d9bd69b186ff0cba06ff763a574304d17aa2b51202bec97dc5efc246b84986d08de9e50a8f0e5ddc172007153fe6fbef8d238828e29014de150596a74efe60bbf3441fed1b1d0ce4805d5f84$订阅源
 东南卫视,https://mursor.ottiptv.cc/migu/849116810.m3u8?migutoken=a40e3dd0d7f6591d70bd37704ca0a441be3695203cbcd4e9298b6dddb56bfd17b3128927a0c070495ee1d69da1a37d084f3844743595908ff8a3b5fa54c07851e5548945942ead11ae213a07f4$订阅源
 东南卫视,https://mursor.ottiptv.cc/migu/849116810.m3u8?migutoken=ffead1cd6485469784df823bda99a43798d91b2dad7fcab11cbcebc4e461075867c62ac5ba7e16a4e0367da4a0a10d0a75fb1fe73220f17dfd5ddbac6080e2bf8b40709833321b118c090a7c61$订阅源
 东南卫视,https://mursor.ottiptv.cc/migu/849116810.m3u8?migutoken=c88957c406d12033b7aa3454f891af51d1117ed943d0740a729eac88418a65942606ba6d7a7770c338cda4f613db21f810c43955c181b802c5301302dfb95354ea3c32a64f33d1d587b73267a0$订阅源
